@@ -1,0 +1,13 @@
+{
+    "name": "Kraftly-Feed",
+    "description": "Kraftly Feed for Magento",
+    "type": "magento2-module",
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Mayank Grover"
+            ]
+        ]
+    }
+}
